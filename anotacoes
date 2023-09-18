@@ -1,0 +1,4 @@
+#classe
+
+Uma clase define as caracteristicas e comportamentos de um objeto, porém não conseguimos usá-las diretamente.
+Já os objetos podemos usá-los e eles possuem as caracteristicas e comportamentos que foram denidinos nas classes.
